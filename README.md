@@ -1,6 +1,9 @@
 # Django_Models
+
 A Brief Definition of Django
+
 A Django model is a built-in feature that Django uses to create tables, fields, and various constraints. Django models simplify the tasks and organize tables into models. 
+ 
  Task- Django Models
  Create a new virtual environment in a folder named .env and install Django in it.
 Create a new Django project. Using your Zuriboard Student ID as the name of the project.
